@@ -1,0 +1,20 @@
+/* CSS SELECTORS */
+/* tag */
+/* .class */
+/* #id */
+#second {
+  color: black;
+  background-color: unset;
+}
+
+h1.text-red {
+  color: rgb(75, 24, 24);
+  display: block;
+  font-size: 15em;
+  margin: 0;
+}
+
+.text-red {
+  color: red !important;
+  background-color: blue;
+}
